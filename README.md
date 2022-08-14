@@ -15,6 +15,7 @@ So, it was necessary to create weather statistics summaries for those months in 
  
 •	There were less observations in December but the sample is representative in order to compare it with June results. With 1517 observations, the average temperature in December was around 71°F which is close to the temperature on June, 75°F. The highest temperature was 83°F and the lowest one was 56°F. 
 
+
 ![image](https://user-images.githubusercontent.com/107591542/184518016-328e752e-c5d0-4a4a-95f3-a556cbf273b7.png)
 
  
@@ -24,6 +25,7 @@ So, it was necessary to create weather statistics summaries for those months in 
 ## Summary
 . 
 •	Two additional queries were performed to graph June and December weather data trend. With these lines of code two histograms’ charts were built as showed below
+
 
  ![image](https://user-images.githubusercontent.com/107591542/184518023-6dd682bf-c8a5-42cf-b48b-0ab14767cf10.png)
 
