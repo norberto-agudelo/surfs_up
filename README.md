@@ -10,6 +10,8 @@ So, it was necessary to create weather statistics summaries for those months in 
 ## Results
 
 •	Taking in account 1700 observations, the average temperature in June is around 75°F. The highest temperature was 85°F and the lowest one was 64°F. However, is important to mention that the most of the observations were temperatures around 77°F. 
+
+
 ![image](https://user-images.githubusercontent.com/107591542/184518010-beecfeb1-a0c8-4416-b846-d4ee00e3487a.png)
 
  
